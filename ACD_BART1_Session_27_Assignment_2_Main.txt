@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION 11: RDBMS (CONTD.)
+
+
+
+Assignment 2
+
+
+Table of Contents
+1. Introduction	3
+2. Objective	3
+3. Prerequisites	3
+4. Associated Data Files	3
+5. Problem Statement	3
+6. Expected Output	3
+7. Approximate Time to Complete Task	3
+
+
+1. Introduction
+This assignment will help you understand the concepts learnt in the session.
+
+2. Objective
+To understand and be able to manipulate SQL queries.
+
+3. Prerequisites
+Not applicable.
+
+4. Associated Data Files
+Use the Sakila schema, which can be found in following link (to be installed in your local system) http://dev.mysql.com/doc/index-other.html("sakila database") http://dev.mysql.com/doc/sakila/en/sakila.html(for full documentation)
+Requirements
+For each question, you are required to provide the following:
+- The SQL query you used
+- The answers
+- Any assumptions you made
+
+5. Problem Statement
+1. Who is the customer who spent the most on rental movies? Return his/her customer id, first name and the amount spent.
+
+2. Give an interesting query of your own that is not already in the assignment. The query should involve at least two joins, HAVING clause and aggregation operation. Give the English explana- tion and the answer.
+
+
+6. Expected Output
+N/A
+
+7. Approximate Time to Complete Task
+
+
+
+
